@@ -4,7 +4,7 @@
  - Myeclipse 8.6
  - Tomcat 6.0
  - MySQL 5.1
-
+ - Struts2 2.1
 登录用户名及密码：
 admin
 111111
